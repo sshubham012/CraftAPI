@@ -18,6 +18,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Default in-memory cache
 * Rotating proxies
 * Configurable amount of name -> uuid requests before using proxies
+* heloooooooo gyussssssss
 
 ## Planned
 
@@ -28,7 +29,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Wait a customizable interval for sending bulk requests (although this increases latency)
 * Add multiple remote APIs besides Mojang:
     * [MineTools](https://api.minetools.eu/)
-
+TBRHTGV3EFCDSTHRGB4FE3CVDST
 ## Requirements
 
 * Java 8+
@@ -40,6 +41,9 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 This project is open for suggestions (including breaking changes between major version) and contributions. If you have 
 an idea to make this library, you are welcome to create an issue ticker or pull request. Please provide units for pull 
 requests if possible.
+
+
+******ADD AGAIN SOMETHING******
 
 ## Maven repository
 
