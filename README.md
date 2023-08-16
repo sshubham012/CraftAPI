@@ -29,7 +29,7 @@ communicating with Mojang. Furthermore, this project is used for experimenting w
 * Wait a customizable interval for sending bulk requests (although this increases latency)
 * Add multiple remote APIs besides Mojang:
     * [MineTools](https://api.minetools.eu/)
-
+TBRHTGV3EFCDSTHRGB4FE3CVDST
 ## Requirements
 
 * Java 8+
